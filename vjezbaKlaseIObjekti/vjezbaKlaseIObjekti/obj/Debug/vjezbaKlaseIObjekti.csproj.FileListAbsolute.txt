@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\vjezbaKlaseIObjekti\vjezbaKlaseIObjekti\bin\Debug\vjezbaKlaseIObjekti.exe.config
+C:\Users\Gigabyte\source\repos\vjezbaKlaseIObjekti\vjezbaKlaseIObjekti\bin\Debug\vjezbaKlaseIObjekti.exe
+C:\Users\Gigabyte\source\repos\vjezbaKlaseIObjekti\vjezbaKlaseIObjekti\bin\Debug\vjezbaKlaseIObjekti.pdb
+C:\Users\Gigabyte\source\repos\vjezbaKlaseIObjekti\vjezbaKlaseIObjekti\obj\Debug\vjezbaKlaseIObjekti.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\vjezbaKlaseIObjekti\vjezbaKlaseIObjekti\obj\Debug\vjezbaKlaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\vjezbaKlaseIObjekti\vjezbaKlaseIObjekti\obj\Debug\vjezbaKlaseIObjekti.exe
+C:\Users\Gigabyte\source\repos\vjezbaKlaseIObjekti\vjezbaKlaseIObjekti\obj\Debug\vjezbaKlaseIObjekti.pdb
